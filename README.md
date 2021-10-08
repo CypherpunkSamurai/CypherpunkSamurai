@@ -30,5 +30,6 @@
 
 
 
-<h2 align="center">Grapphhh !! 😄</h2>
+<h2 align="center">Stats Here 😄</h2>
+It's Not Much But It's Honest Work! 😸
 <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=CypherpunkSamurai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=eeeeee&bg_color=45,4AC29A,095757">
