@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Hi there 👋</h3>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&color=%23089255&size=33&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+CypherpunkSamurai!+%F0%9F%91%8B;Coder+%2F+Software+Developer%2C;Freelancer%2C+Graphics+Designer%2C;and+an+RE+Enthusiast.;When+I'm+not+on+the+linux+terminal....;you'll+find+me+browsing+HN+and+Reddit.)](https://git.io/typing-svg)
 
