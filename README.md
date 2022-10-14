@@ -1,55 +1,183 @@
-
-
+<!-- Typing SVG Here -->
+<br>
+<br>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&color=%23089255&size=33&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+CypherpunkSamurai!+%F0%9F%91%8B;Coder+%2F+Software+Developer%2C;Freelancer%2C+Graphics+Designer%2C;and+an+RE+Enthusiast.;When+I'm+not+on+the+linux+terminal....;you'll+find+me+browsing+HN+and+Reddit.)](https://git.io/typing-svg)
 
-
-
+<!-- Intro Here -->
 <br>
+<br>
+
 <p>
   <b>
-    Hi, I'm CypherpunkSamurai, a Coder / Software Developer.
+    Hi, I'm CypherpunkSamurai
     <img height=30 width=30 src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif">
-  
-  <br>
-  <br>
-
-🎓  I'm currently studying B.Tech 1st year.
-<br>
-💻  I love writing code to simplify lives for people. (including mine 😄)
-<br>
-🔭  I’m currently working on Learning C++ and JS
-<br>
-🌱  I’m currently learning how to build a Golang UI Applications
-<br>
-🤔  I’m looking for help with Golang Terminal UI (TUI)
-<br>
-😄  I’m looking to collaborate on Javascript Websocket client.
-<br>
-💬  Ask me about <a href="https://github.com/CypherpunkSamurai/CypherpunkSamurai/issues" title="Issues">Here</a>
-<br>
-📫  How to reach me: <a href="mailto: cypherpunksamurai@gmail.com">cypherpunksamurai@gmail.com</a>
-
+    <br>
+    A Computer Softwares Engineer, in the Making...
+    <br>
   </b>
 </p>
 
+<!-- Links Here -->
 <hr>
 
+<p>  
+    <code>
+      <a href="https://www.linkedin.com/in/rakeshchow/">
+       <img width="20px" src="img/icons/LinkedIn.svg">
+       Linked In
+      </a>
+    </code>
+    <code>
+      <a href="">
+       <img width="20px" src="img/icons/discord.svg">
+       Discord
+      </a>
+    </code>
+    <code>
+      <a href="https://gitlab.com/CypherpunkSamurai/">
+       <img width="20px" src="img/icons/gitlab.svg">
+       Gitlab
+      </a>
+    </code>
+    <code>
+      <a href=http://gitter.im/CypherpunkSamurai"">
+       <img width="14px" src="img/icons/gitter.svg">
+       Gitter
+      </a>
+    </code>
+    <code>
+      <a href=https://matrix.to/#/@user:CyperpunkSamurai"">
+       <img width="14px" src="img/icons/Element.svg">
+       Matrix
+      </a>
+    </code>
+</p>
+
+<!-- Facts Here -->
+<hr>
+
+<br>
+<br>
+
+
+
+## Here's a Few Facts About Me 😄:
+  🎓 I'm currently studying B.Tech 2nd year.
+  <br>
+    💻 I love writing code to simplify lives for people. (including mine 😄)
+  <br>
+    🌱 I’m a dedicated and fast learner
+  <br>
+    🖌️ I usually Graphics Desgin and UI Design in my free time
+  <br>
+  🐱 I prefer [cattos](https://reddit.com/r/aww) over doggos
+  <br>
+    😎 I'm secretly a CyberSec Enthusiast `#HackThePlanet`
+  <br>
+    👺 I like japanese culture
+  <br>
+    🔭 My Hobbies include:
+    <ul>
+      <li>Reading books</l1>
+      <li>Exploring the Planet</li>
+      <li>Watching Marvel and Anime</li>
+      <li>Reading Comics and Manga</li>
+      <li>Graphics Design, and Digital Art</li>
+    </ul>
+  <br>
+    😄 I’m happy to colaborate on projects 🤝
+
+<!-- Contacts Section -->
+<br>
+
+<p>
+  <h2>Contacts</h2>
+  💬 Ask me <a href="https://github.com/CypherpunkSamurai/CypherpunkSamurai/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: cypherpunksamurai@gmail.com">cypherpunksamurai@gmail.com</a>
+</p>
+
+
+
+
+
+
+
+<!-- Stats -->
+<hr>
+<br>
+<br>
+
+
+
+<!-- Header -->
 
 <div align="center">
-  <h2 align="center">Here's My Little Collection of Stats 😄</h2>
-  <b>It's Not Much But It's Honest Work! 😸</b>
-  <br>
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=CypherpunkSamurai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=eeeeee&bg_color=45,4AC29A,095757">
+    <h2 align="center">Here's My Little Collection of Stats 😄</h2>
+    <b>It's Not Much But It's Honest Work! 😸</b>
 </div>
+
+
+<!-- Coding Stats -->
+<br>
+<br>
+
+<div align="center">
+
+  <h2>Languages</h2>
+    <h3>Preferred</h3>
+      <img src="https://skillicons.dev/icons?i=py,golang,nodejs,js,cs,rust,regex,bash&perline=8" alt="Technologies">
+    <h3>Known</h3>
+      <img src="https://skillicons.dev/icons?i=java,c,cpp,androidstudio&perline=8" alt="Technologies">
+  <br><br>
+
+  <h3>Frameworks and Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=linux,react,express,fastapi,bots,selenium,tailwind,bootstrap,flask,docker,nginx,nextjs&perline=6" alt="Technologies">
+  <br><br>  
+
+  <h2>Storage</h2>
+    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres&perline=8" alt="Technologies">
+  <h2>Cloud Services</h2>
+    <img src="https://skillicons.dev/icons?i=githubactions,heroku,aws,cloudflare,netlify,vercel&perline=8" alt="Technologies">
+  <br>
+
+  <h2>Toolkit</h2>
+      <img src="https://skillicons.dev/icons?i=vscode,neovim,git,github,gitlab,figma,ps,ai" alt="Tools">
+    <br><br>
+
+</div>
+
+
+
+<br>
+<br>
+
+<hr>
+
+<!-- Waka Stats -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+
+
+
+
+
+<!-- End -->
+<br>
+<br>
+
 
 
 <div margin="20px">
-<p>
-<p>
-<img src="https://github.com/CypherpunkSamurai/CypherpunkSamurai/raw/master/waves.svg" alt="Waves SVG">          
-</p>
-</p>
+  <p>
+    <p>
+      <img src="img/waves_.svg" alt="Waves SVG">
+    </p>
+  </p>
 </div>
-
