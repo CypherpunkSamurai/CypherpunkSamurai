@@ -31,24 +31,24 @@
     </code>
     <code>
       <a href="">
-       <img width="20px" src="img/icons/discord.svg">
+       <img width="20px" src="img/icons/Discord.svg">
        Discord
       </a>
     </code>
     <code>
       <a href="https://gitlab.com/CypherpunkSamurai/">
-       <img width="20px" src="img/icons/gitlab.svg">
+       <img width="20px" src="img/icons/GitLab.svg">
        Gitlab
       </a>
     </code>
     <code>
-      <a href=http://gitter.im/CypherpunkSamurai"">
-       <img width="14px" src="img/icons/gitter.svg">
+      <a href="http://gitter.im/CypherpunkSamurai">
+       <img width="14px" src="img/icons/Gitter.svg">
        Gitter
       </a>
     </code>
     <code>
-      <a href=https://matrix.to/#/@user:CyperpunkSamurai"">
+      <a href="https://matrix.to/#/@user:CyperpunkSamurai">
        <img width="14px" src="img/icons/Element.svg">
        Matrix
       </a>
