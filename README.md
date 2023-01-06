@@ -23,40 +23,30 @@
 <hr>
 
 <p>  
-    <code>
       <a href="https://www.linkedin.com/in/rakeshchow/">
        <img width="20px" src="img/icons/LinkedIn.svg">
        Linked In
       </a>
-    </code>
     &nbsp;
-    <code>
       <a href="">
        <img width="20px" src="img/icons/Discord.svg">
        Discord
       </a>
-    </code>
     &nbsp;
-    <code>
       <a href="https://gitlab.com/CypherpunkSamurai/">
        <img width="20px" src="img/icons/GitLab.svg">
        Gitlab
       </a>
-    </code>
     &nbsp;
-    <code>
       <a href="http://gitter.im/CypherpunkSamurai">
        <img width="14px" src="img/icons/Gitter.svg">
        Gitter
       </a>
-    </code>
     &nbsp;
-    <code>
       <a href="https://matrix.to/#/@user:CyperpunkSamurai">
        <img width="14px" src="img/icons/Element.svg">
        Matrix
       </a>
-    </code>
 </p>
 
 <!-- Facts Here -->
@@ -103,7 +93,7 @@
   <h2>Contacts</h2>
   💬 Ask me <a href="https://github.com/CypherpunkSamurai/CypherpunkSamurai/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: cypherpunksamurai@gmail.com">cypherpunksamurai@gmail.com</a>
+  📫 How to reach me: <a href="mailto: CypherpunkSamurai@protonmail.com">cypherpunksamurai@gmail.com</a>
 </p>
 
 
