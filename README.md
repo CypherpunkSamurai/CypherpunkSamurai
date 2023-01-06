@@ -93,7 +93,7 @@
   <h2>Contacts</h2>
   💬 Ask me <a href="https://github.com/CypherpunkSamurai/CypherpunkSamurai/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: CypherpunkSamurai@protonmail.com">cypherpunksamurai@gmail.com</a>
+  📫 How to reach me: <a href="mailto: CypherpunkSamurai@protonmail.com">CypherpunkSamurai@protonmail.com</a>
 </p>
 
 
