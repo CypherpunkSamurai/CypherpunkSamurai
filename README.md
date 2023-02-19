@@ -156,15 +156,82 @@
 <!-- Waka Stats -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 27 Contributions in the Year 2023
+ > 
+> 📦 941.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 136 Public Repositories 
+ > 
+> 🔑 20 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-From: 13 October 2022 - To: 17 February 2023
+🌞 Morning        1 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+🌆 Daytime       24 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+🌃 Evening       66 commits       ████████░░░░░░░░░░░░░░░░░   34.20 % 
+🌙 Night        102 commits       █████████████░░░░░░░░░░░░   52.85 % 
 
-Total Time: 0 secs
+```
+📅 **I'm Most Productive on Thursday** 
 
-No activity tracked
+```text
+Monday          12 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Tuesday         36 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Wednesday       25 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Thursday        54 commits       ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+Friday          33 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Saturday        25 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Sunday           8 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Shell                    9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/CypherpunkSamurai/CypherpunkSamurai/master/charts/bar_graph.png) 
+
+
+ Last Updated on 19/02/2023 00:39:43 UTC
 <!--END_SECTION:waka-->
 
 
