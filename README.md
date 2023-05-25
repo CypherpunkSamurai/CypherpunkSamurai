@@ -156,15 +156,79 @@
 <!-- Waka Stats -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 947.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 90 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 144 Public Repositories 
+ > 
+> 🔑 23 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-From: 13 October 2022 - To: 23 May 2023
+🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+🌆 Daytime                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌃 Evening                294 commits         █████████████░░░░░░░░░░░░   50.52 % 
+🌙 Night                  208 commits         █████████░░░░░░░░░░░░░░░░   35.74 % 
+```
+📅 **I'm Most Productive on Monday** 
 
-Total Time: 0 secs
-
-No activity tracked
+```text
+Monday                   141 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Tuesday                  72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Wednesday                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Thursday                 64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Friday                   121 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Saturday                 87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   25 repos            ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/CypherpunkSamurai/CypherpunkSamurai/master/assets/bar_graph.png)
+
+
+ Last Updated on 25/05/2023 00:38:55 UTC
 <!--END_SECTION:waka-->
 
 
