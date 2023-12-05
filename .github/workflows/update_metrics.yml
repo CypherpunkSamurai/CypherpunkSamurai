@@ -34,13 +34,19 @@ jobs:
           plugin_isocalendar_duration: full-year
 
 
-
+  update-wakatime:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - uses: anmol098/waka-readme-stats@master
+        continue-on-error: true
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       
       - uses: athul/waka-readme@master
+        continue-on-error: true
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
