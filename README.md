@@ -61,7 +61,7 @@
 
 
 ## Here's a Few Facts About Me 😄:
-  🎓 I'm currently studying B.Tech 2nd year.
+  🎓 I'm currently studying B.Tech 3rd year.
   <br>
     💻 I love writing code to simplify lives for people. (including mine 😄)
   <br>
