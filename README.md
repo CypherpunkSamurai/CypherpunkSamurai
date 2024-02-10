@@ -27,11 +27,13 @@
        <img width="20px" src="img/icons/LinkedIn.svg">
        Linked In
       </a>
+  <!--
     &nbsp;
       <a href="">
        <img width="20px" src="img/icons/Discord.svg">
        Discord
       </a>
+    -->
     &nbsp;
       <a href="https://gitlab.com/CypherpunkSamurai/">
        <img width="20px" src="img/icons/GitLab.svg">
@@ -69,7 +71,7 @@
   <br>
     🖌️ I usually Graphics Desgin and UI Design in my free time
   <br>
-  🐱 I prefer [cattos](https://reddit.com/r/aww) over doggos
+  🐱 I prefer both [cattos and doggo](https://reddit.com/r/aww)
   <br>
     😎 I'm secretly a CyberSec Enthusiast `#HackThePlanet`
   <br>
