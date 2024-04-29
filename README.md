@@ -3,7 +3,7 @@
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&color=%23089255&size=33&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+CypherpunkSamurai!+%F0%9F%91%8B;Coder+%2F+Software+Developer%2C;Freelancer%2C+Graphics+Designer%2C;and+an+RE+Enthusiast.;When+I'm+not+on+the+linux+terminal....;you'll+find+me+browsing+HN+and+Reddit.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&color=%23089255&size=33&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+CypherpunkSamurai!+%F0%9F%91%8B;Coder+%2F+Software+Developer%2C;Freelancer%2C+Graphics+Designer%2C;and+an+RE+Enthusiast.;When+I'm+not+on+the+linux+terminal....;you'll+find+me+browsing+HN+and+ProductHunt.)](https://git.io/typing-svg)
 
 <!-- Intro Here -->
 <br>
@@ -14,7 +14,7 @@
     Hi, I'm CypherpunkSamurai
     <img height=30 width=30 src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif">
     <br>
-    A Computer Softwares Engineer, in the Making...
+    A Computer Software Engineer, in the Making...
     <br>
   </b>
 </p>
