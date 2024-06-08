@@ -15,8 +15,6 @@ z-index: 99;
 backdrop-filter: hue-rotate(270deg) opacity(0.5);
 "]{}
 
-\mmlToken{mi}{\U{213C}}
-
 \mmlToken{ms}[fontfamily="
 goombafont;
 pointer-events: none;
