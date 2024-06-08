@@ -1,3 +1,48 @@
+
+<!-- github css exploit :3 -->
+<!--# Credit: [TheCubiq](https://github.com/TheCubiq/TheCubiq)-->
+```math
+\mmlToken{ms}[fontfamily="
+goombafont;
+color: #00000000;
+pointer-events:none;
+z-index: -10;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+z-index: 99;
+backdrop-filter: hue-rotate(270deg) opacity(0.5);
+"]{}
+
+\mmlToken{mi}{\U{213C}}
+
+\mmlToken{ms}[fontfamily="
+goombafont;
+pointer-events: none;
+position: fixed;
+inset: 0;
+z-index: 100;
+font-size: 0.420rem;
+background: url(https://github.com/CypherpunkSamurai/CypherpunkSamurai/blob/master/assets/samurai-background.gif?raw=true);
+background-repeat: no-repeat;
+background-size: cover;
+opacity: 0.1;
+background-position-x: center;
+"]{}
+
+\mmlToken{ms}[fontfamily="
+goombafont;
+color: #00000000;
+pointer-events: none;
+position: fixed;
+inset: 0;
+backdrop-filter: saturate(3) blur(15px) brightness(2) opacity(0.4);
+"]{}
+
+```
+<!-- css exploit -->
+
 <!-- Typing SVG Here -->
 <br>
 <br>
@@ -59,6 +104,7 @@
 
 <br>
 <br>
+
 
 
 
