@@ -140,7 +140,7 @@
   <h2>Storage</h2>
     <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres&perline=8" alt="Technologies">
   <h2>Cloud Services</h2>
-    <img src="https://skillicons.dev/icons?i=githubactions,heroku,aws,cloudflare,netlify,vercel&perline=8" alt="Technologies">
+    <img src="https://skillicons.dev/icons?i=githubactions,heroku,cloudflare,netlify,vercel&perline=8" alt="Technologies">
   <br>
 
   <h2>Toolkit</h2>
