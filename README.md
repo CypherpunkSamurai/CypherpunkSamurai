@@ -156,31 +156,6 @@
 
 <hr>
 
-<!-- Waka Stats -->
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 13 October 2022 - To: 25 July 2024
-
-Total Time: 54 hrs 9 mins
-
-Python           47 hrs 38 mins  ██████████████████████░░░   87.98 %
-Other            1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Bash             1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-TypeScript       1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Markdown         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-```
-
-<!--END_SECTION:waka-->
-
-
-
-
-
-
-
-
 <!-- End -->
 <br>
 <br>
