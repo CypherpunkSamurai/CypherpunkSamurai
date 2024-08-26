@@ -56,7 +56,9 @@
 <center>
 <img src="https://komarev.com/ghpvc/?username=CypherpunkSamurai&label=People+Who+Viewed+My+Profile" >
 </center>
-
+<center>
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26416%26project%3D%26in=0">
+</center>
 <br>
 <br>
 
