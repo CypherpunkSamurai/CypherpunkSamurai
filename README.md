@@ -14,10 +14,7 @@
     Hi, I'm CypherpunkSamurai
     <img height=30 width=30 src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif">
     <br>
-    A Computer Software Engineer based off of India
-
-    <p>I move small rocks on my finger so photons move to my eyes...
-    </p>
+    A Computer Software Engineer and Cybersecurity Enthusiast 🍃
     <br>
   </b>
 </p>
@@ -79,7 +76,7 @@
   <br>
   🐱 I prefer both [cattos and doggo](https://reddit.com/r/aww)
   <br>
-    😎 I'm secretly a CyberSec Enthusiast `#HackThePlanet`
+    😎 Reverse Engineering the World to Bits and Bytes `#HackThePlanet`
   <br>
     👺 I like japanese culture
   <br>
