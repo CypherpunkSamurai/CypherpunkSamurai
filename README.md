@@ -14,7 +14,10 @@
     Hi, I'm CypherpunkSamurai
     <img height=30 width=30 src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif">
     <br>
-    A Computer Software Engineer, I move small rocks on my finger so photons move to my eyes...
+    A Computer Software Engineer based off of India
+
+    <p>I move small rocks on my finger so photons move to my eyes...
+    </p>
     <br>
   </b>
 </p>
